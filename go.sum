@@ -1,0 +1,7 @@
+go.osspkg.com/goppy/errors v0.1.0 h1:2q8gdRZMEEDk7y/sneblQxpHhsi3pqF1BbFFHS7+FnE=
+go.osspkg.com/goppy/errors v0.1.0/go.mod h1:SvA8dgErO9e2i3TR8hgJV4uMAzs4TkL4FxXBSnw2UG4=
+go.osspkg.com/goppy/iosync v0.1.2 h1:w0BxqBa7PAdxFM2P8pZn3ToHK6ilX5IG+1nwIXJEoGg=
+go.osspkg.com/goppy/iosync v0.1.2/go.mod h1:huJpHhpIQ2DgzY3wVt72RUsJaje0uqYiUvMRovb1/Dg=
+go.osspkg.com/goppy/xc v0.1.0 h1:e2231FumnLEf1OjqEtbRaUxz3FT9M8pZVKg0C0aTf7g=
+go.osspkg.com/goppy/xc v0.1.0/go.mod h1:ocKrJbO+EADhuClTbOqzDfCqnUO9+ikEW0M7pqLl1Y4=
+go.osspkg.com/goppy/xtest v0.1.2 h1:rbUzEnWZW9vkGa24owydA9icQcfOaROJWSym1l0mCtU=
